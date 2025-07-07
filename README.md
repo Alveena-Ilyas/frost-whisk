@@ -1,5 +1,4 @@
-# 🍰 Frost & Whisk – Practice HTML/CSS Project
-
+# 🍰 Frost-Whisk 
 This project was created as part of extra HTML & CSS practice assigned by Miss. It features a **visually aesthetic landing page** for a fictional bakery named **Frost & Whisk**. The design includes a structured layout, interactive elements, and clean styling.
 
 ##  Project Highlights
